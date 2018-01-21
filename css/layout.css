@@ -34,7 +34,13 @@
   display: inline;
 }
 
+#spotlight {
+  width: 66%;
+}
 
+.feature {
+  width: 33%;
+}
 
 .left {
   float: left;
