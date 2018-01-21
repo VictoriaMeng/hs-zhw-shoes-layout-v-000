@@ -24,6 +24,10 @@
 
 /* Posititoning Classes */
 
+.col-row-1 {
+  column-count: 2;
+}
+
 #spotlight {
   width: 66%;
 }
