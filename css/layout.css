@@ -27,6 +27,7 @@
 .col-row-1 {
   column-count: 3;
   display: inline;
+  bottom: 1em;
 }
 
 .col-row-2 {
@@ -36,7 +37,6 @@
 
 #spotlight {
   width: 66%;
-  top: 1em;
 }
 
 .feature {
