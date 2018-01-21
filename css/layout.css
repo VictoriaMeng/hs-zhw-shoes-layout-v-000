@@ -45,6 +45,7 @@
 .left {
   float: left;
   position: relative;
+  top: 1em;
 }
 
 .right {
