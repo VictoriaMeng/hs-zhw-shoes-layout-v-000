@@ -43,6 +43,7 @@
 .feature {
   width: 33%;
   display: inline;
+  margin: 1em;
 }
 
 .left {
