@@ -32,16 +32,15 @@
 .col-row-2 {
   column-count: 3;
   display: inline;
+  top: 1em;
 }
 
 #spotlight {
   width: 66%;
-  bottom: 1em;
 }
 
 .feature {
   width: 33%;
-  top: 1em;
 }
 
 .left {
