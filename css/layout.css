@@ -27,7 +27,6 @@
 .col-row-1 {
   column-count: 3;
   display: inline;
-  margin: 0 0 1em 0;
 }
 
 .col-row-2 {
@@ -38,7 +37,7 @@
 
 #spotlight {
   width: 66%;
-
+  margin: 0 0 1em 0;
 }
 
 .feature {
