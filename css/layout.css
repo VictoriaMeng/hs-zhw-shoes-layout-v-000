@@ -44,12 +44,11 @@
 
 .left {
   float: left;
-  top: 1em;
+  position: relative;
 }
 
 .right {
   float: right;
-  top: 1em'
 }
 
 .center {
