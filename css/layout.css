@@ -45,19 +45,3 @@
   display: inline;
   margin: auto;
 }
-
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-}
-
-.center {
-  float: right;
-  float: left;
-  clear: none;
-  margin: auto;
-  justify-content: center;
-}
