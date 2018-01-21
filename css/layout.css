@@ -41,12 +41,12 @@
 }
 
 .feature {
-  width: 33%;
+  width: 30%;
 }
 
 .left {
   float: left;
-  margin: 0 1% 0 0;
+  margin-left: 1%;
 }
 
 .right {
