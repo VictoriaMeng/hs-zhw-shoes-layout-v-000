@@ -40,12 +40,12 @@
 
 .feature {
   width: 33%;
+  top: 1em;
 }
 
 .left {
   float: left;
   position: relative;
-  top: 1em;
 }
 
 .right {
