@@ -33,7 +33,7 @@
 .col-row-2 {
   column-count: 3;
   display: inline;
-  margin: auto;
+  margin: 1em;
 }
 
 #spotlight {
