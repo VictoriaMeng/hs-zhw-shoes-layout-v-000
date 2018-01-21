@@ -49,6 +49,7 @@
 
 .right {
   float: right;
+  position: relative;
 }
 
 .center {
@@ -57,4 +58,5 @@
   clear: none;
   margin: auto;
   justify-content: center;
+  position: relative;
 }
