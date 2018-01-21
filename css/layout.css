@@ -36,7 +36,7 @@
 
 #spotlight {
   width: 66%;
-  position: absolute;
+  postion: fixed;
 }
 
 .feature {
