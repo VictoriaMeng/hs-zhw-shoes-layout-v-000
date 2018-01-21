@@ -27,6 +27,7 @@
 .col-row-1 {
   column-count: 3;
   display: inline;
+  margin: 1em;
 }
 
 .col-row-2 {
