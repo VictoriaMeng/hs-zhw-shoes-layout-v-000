@@ -45,12 +45,10 @@
 
 .left {
   float: left;
-  position: relative;
 }
 
 .right {
   float: right;
-  position: relative;
 }
 
 .center {
@@ -58,5 +56,4 @@
   float: left;
   clear: none;
   justify-content: center;
-  position: relative;
 }
