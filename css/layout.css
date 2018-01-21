@@ -51,7 +51,6 @@
 
 .right {
   float: right;
-  margin: 0 0 1% 0;
 }
 
 .center {
@@ -59,4 +58,5 @@
   float: left;
   clear: none;
   justify-content: center;
+  margin-right: 1%;
 }
