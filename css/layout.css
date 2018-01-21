@@ -30,6 +30,12 @@
   margin: auto;
 }
 
+.col-row-2 {
+  column-count: 3;
+  display: inline;
+  margin: auto;
+}
+
 #spotlight {
   width: 66%;
 }
