@@ -24,7 +24,15 @@
 
 /* Posititoning Classes */
 
+.col-row-1 {
+  column-count: 3;
+  display: inline;
+}
 
+.col-row-2 {
+  column-count: 3;
+  display: inline;
+}
 
 #spotlight {
   width: 66%;
