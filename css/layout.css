@@ -36,11 +36,11 @@
 
 #spotlight {
   width: 66%;
+  top: 1em;
 }
 
 .feature {
   width: 33%;
-  top: 1em;
 }
 
 .left {
